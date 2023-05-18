@@ -1,0 +1,14 @@
+{
+  "name": "cursodeasincronismoconjavascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Gino Ruben Giorgi ginorubengiorgi@gmail.com",
+  "license": "MIT"
+}
